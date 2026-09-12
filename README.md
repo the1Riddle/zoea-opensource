@@ -5,7 +5,7 @@
 
 Welcome to Zoea Open Source, a beginner-friendly space where you can kickstart your journey in contributing to Open Source projects. Whether you're a student, a curious learner, or a developer aiming to give back to the community, this is your place to start!
 
-In this repo, you’ll find everything you need to start your open source journey:
+In this repo, you’ll find everything you need to start your open-source journey:
 
 - Beginner-friendly guides
 - Practice issues
@@ -38,7 +38,7 @@ Open source contribution is the act of participating in an open source project b
 
 ## 💡 Ways You Can Contribute
 
-In general, Open Source contribution depends on what you like and would want to contribute to.
+In general, open-source contribution depends on what you like and would want to contribute to.
 
 ### Non-Coding Contributions
 
